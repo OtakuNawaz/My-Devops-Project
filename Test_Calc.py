@@ -19,7 +19,7 @@ class TestCalc(unittest.TestCase):
         self.assertEqual(add(-4,-5),-9)
 
     def test_subtract(self):
-            self.assertEqual(subtract(10,5),5)
+            self.assertEqual(subtract(10,5),4)
             self.assertEqual(subtract(-1,5),-6)
             self.assertEqual(subtract(-4,-5),1)
 
