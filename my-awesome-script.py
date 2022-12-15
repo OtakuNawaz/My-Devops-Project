@@ -1,3 +1,4 @@
 print('Howdy World')
-print('Hajimemaste Sekai')
+print('Hajimemashite sekai!')
 # This is an awesome Python script
+
